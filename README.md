@@ -1,6 +1,7 @@
 ## Toward Energy-Efficient Spike-Based Deep Reinforcement Learning with Temporal Coding
 ### Requirements
 ------------
+*   [spikingjelly]([https://github.com/openai/mujoco-py](https://github.com/fangwei123456/spikingjelly/tree/neuron)
 *   [mujoco-py](https://github.com/openai/mujoco-py)
 *   [PyTorch](http://pytorch.org/)
 
